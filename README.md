@@ -15,6 +15,8 @@ npx expo start
 
 
 ## Screens
+<img src = "screens/Screenshot_20240510_103343_ExoG.jpg" width="250" height="600">
+<img src = "screens/screens/Screenshot_20240510_103326_Expo.jpg" width="250" height="600">
+<img src = "screens/Screenshot_20240510_103335_ExpG.jpg" width="250" height="600">
 
-<img src="screens/Screenshot_20240510_103343_ExpoGo.jpg" width="250" height="500"/> | <img src="screens/Screenshot_20240510_103326_ExpoGo.jpg" width="250" height="500"/> | <img src="screens/Screenshot_20240322_094047_localListing.jpg" width="250" height="500"/>
 ```
