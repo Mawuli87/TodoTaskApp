@@ -17,6 +17,6 @@ npx expo start
 
 ## Screens
 
-<img src = "screens/Screenshot_20240510_103343_ExoG.jpg" width="250" height="600">
-<img src = "screens/screens/Screenshot_20240510_103326_Expo.jpg" width="250" height="600">
-<img src = "screens/Screenshot_20240510_103335_ExpG.jpg" width="250" height="600">
+<img src = "screens/Screenshot_20240510_103343_ExoG.jpg"  height="600">
+<img src = "screens/Screenshot_20240510_103326_Expo.jpg"  height="600">
+<img src = "screens/Screenshot_20240510_103335_ExpG.jpg"  height="600">
